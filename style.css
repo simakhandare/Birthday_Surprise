@@ -1,0 +1,31 @@
+body {
+    background: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.code {
+    background: black;
+    color: #00ff66;
+    padding: 20px;
+    margin: 30px auto;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    font-family: monospace;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
